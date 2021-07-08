@@ -62,7 +62,7 @@ a,a:hover{
 .banner{
 	width: 100%;
 	padding: 10px 0px;
-	background: url("../images/Banner.png.") center bottom no-repeat;
+	background: url("../images/Slider Image.png") center bottom no-repeat;
 	background-size: cover;
 }
 .banner .banner-text {
@@ -253,7 +253,7 @@ position: relative;
 }
 
 .review{
-	background: url("../images/Background2.png.") center bottom no-repeat;
+	background: url("../images/Background.png.") center bottom no-repeat;
 	background-size: cover; 
 	padding: 80px 0px;
 }
@@ -406,7 +406,7 @@ position: relative;
 .footer{
 	width: 100%;
 	padding: 10px 0px;
-	background: url("../images/Background4.png.") center bottom no-repeat;
+	background: url("../images/Background1.png.") center bottom no-repeat;
 	background-size: cover;
 	height: 500px;
 	}
